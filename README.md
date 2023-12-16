@@ -1,2 +1,2 @@
 # denmal-careers-website
-A careers website for Jovian
+A careers website for Denmal
